@@ -54,6 +54,7 @@ header .container {
     justify-content: space-between;
     align-items: center;
     position: relative; 
+    border-bottom: 4px;
 }
 header.container::after{
     content: "";
@@ -91,4 +92,7 @@ header nav ul li a:hover {
   color: var(--main-color);
   border-bottom: 1px solid var(--main-color); 
 }    
+header nav .form{
+  
+}
 /* End Header */
