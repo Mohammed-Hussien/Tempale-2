@@ -73,6 +73,7 @@ header nav ul {
   display: flex;
 }
 header nav ul li a {
-
+  padding: 40px 10px;
+  display: block;
 }
 /* End Header */
