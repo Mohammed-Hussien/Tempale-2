@@ -84,7 +84,7 @@ header nav ul li a {
   font-size: 14px;
   transition: 0.3s;
   position: relative;
-  z-index: 3;
+  z-index: 2;
 }
 header nav ul li a.active,
 header nav ul li a:hover {
