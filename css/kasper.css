@@ -70,6 +70,6 @@ header nav {
   justify-content: flex-end;
 }
 header nav ul {
-  
+  display: flex;
 }
 /* End Header */
