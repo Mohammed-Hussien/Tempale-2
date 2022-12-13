@@ -139,4 +139,8 @@ header nav .form i{
 }
 /* End Header */
 /* Start Landing */ 
+.landing {
+  min-height: 100vh;
+  background-image: url(../images/landing.jpg);
+}
 /* End Landing /* 
