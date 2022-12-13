@@ -181,6 +181,9 @@ margin-bottom: 20px;
   line-height: 2;
 }
 .landing .change-background {
-  
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #ddd;
 }
 /* End Landing /* 
