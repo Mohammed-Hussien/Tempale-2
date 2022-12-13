@@ -167,13 +167,16 @@ header nav .form i{
   display: flex;
   justify-content: flex-end;
 }
+.landing .text .content {
+  max-width: 500px;
+}
 @media (max-width: 767px){
   .landing .text {
     width: 100%;
   }
-}
-.landing .text .content {
-  max-width: 500px;
+  .landing .text .content {
+    max-width: 100%;
+  }
 }
 .landing .text .content h2 {
 font-size: 32px;
