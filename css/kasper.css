@@ -315,6 +315,7 @@ display: flex;
   background-size: cover;
   display: flex;
   align-items: center;
+  overflow: hidden;
 }
 .design::before {
   content: "";
@@ -334,4 +335,5 @@ display: flex;
 .design .image {
   text-align: center;
 }
+.design .image
 /* End Design */ 
