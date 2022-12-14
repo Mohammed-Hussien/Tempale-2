@@ -335,5 +335,7 @@ display: flex;
 .design .image {
   text-align: center;
 }
-.design .image
+.design .image img {
+  
+}
 /* End Design */ 
