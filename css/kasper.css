@@ -345,12 +345,14 @@ display: flex;
   background-color: var(--transparent-color)
 }
 .design .text h2 {
-
+font-weight: normal;
+text-transform: uppercase;
+margin-bottom: 40px;
 }
 .design .text ul li {
 
 }
 .design .text ul li::before {
-  
+
 }
 /* End Design */ 
