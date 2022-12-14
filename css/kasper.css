@@ -270,6 +270,11 @@ display: flex;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
 }
+@media(min-width:768px){
+  .services .services-container {
+    display: grid;
+  }
+}
 .services .srv-box {
 display: flex;
 }
@@ -284,7 +289,4 @@ display: flex;
   line-height: 2;
   color: #777;
 }
-
-
-
 /* End Services */
