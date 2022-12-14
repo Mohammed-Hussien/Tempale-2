@@ -336,6 +336,7 @@ display: flex;
   text-align: center;
 }
 .design .image img {
-  
+  position: relative;
+  bottom: -150px;
 }
 /* End Design */ 
