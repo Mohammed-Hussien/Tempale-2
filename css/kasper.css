@@ -306,4 +306,8 @@ display: flex;
 }
 /* End Services */
 /* Start Design */
+.design {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+}
 /* End Design */ 
