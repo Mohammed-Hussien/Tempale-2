@@ -281,6 +281,7 @@ display: flex;
 .services .srv-box {
 display: flex;
 flex-direction: column;
+text-align: center;
 }
 .services .srv-box i {
   margin-right: 50px;
