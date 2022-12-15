@@ -383,7 +383,9 @@ top: 1px;
  color: white; 
 }
 .portfolio .imgs-container {
-  
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 60px;
 }
 .portfolio .imgs-container .box {
   
