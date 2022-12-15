@@ -454,7 +454,7 @@ position: relative;
 .video video {
 width: 100%;
 }
-.video text {
+.video .text {
   width: 100%;
   position: absolute;
   top: 50%;
@@ -464,13 +464,13 @@ width: 100%;
   color: white;
   text-align: center;
 }
-.video text h2{
+.video .text h2{
   
 }
-.video text p {
+.video .text p {
   
 }
-.video text button {
+.video .text button {
   
 }
 /* End Video */
