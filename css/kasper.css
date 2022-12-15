@@ -562,5 +562,9 @@ margin: 0 0 20px;
 font-size: 14px;
 }
 /* End Stats */
-/*Start Skills */
+/* Start Skills */
+.our-skills {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+}
 /* End Skills */
