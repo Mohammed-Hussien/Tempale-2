@@ -391,6 +391,12 @@ top: 1px;
   overflow: hidden;
   position: relative;
 }
+.portfolio .imgs-container .box:hover .caption {
+
+}
+.portfolio .imgs-container .box:hover .img {
+  
+}
 @media(min-width:768px){
   .portfolio .imgs-container .box {
     flex-basis: 50%;
