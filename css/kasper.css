@@ -509,4 +509,7 @@ text-align: center;
   background-size: cover;
   position: relative;
 }
+.stats::before {
+  
+}
 /* End Stats */
