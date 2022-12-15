@@ -667,6 +667,12 @@ margin-bottom: 40px;
 }
 .our-skills .skills .prog-holder .prog span::after {
   content: "";
+  position: absolute;
+  border-style: solid;
+  border-width: 8px;
+  border-color: red green blue brown;
+  right: -8px;
+  top: -15px;
 }
 
 /* End Skills */
