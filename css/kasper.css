@@ -639,7 +639,9 @@ margin-bottom: 10px;
 margin-bottom: 40px;
 }
 .our-skills .skills .prog-holder h4 {
-  
+  margin-bottom: 15px;
+  font-weight: normal;
+  text-transform: uppercase;
 }
 .our-skills .skills .prog-holder .prog {
   
