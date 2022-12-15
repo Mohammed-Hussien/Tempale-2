@@ -439,4 +439,10 @@ color: var(--main-color);
 }
 /* End Portfolio */
 /* Start Video */ 
+.video {
+
+}
+.video::before {
+  
+}
 /* End Video */
