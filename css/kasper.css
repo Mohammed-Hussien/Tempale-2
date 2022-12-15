@@ -388,6 +388,7 @@ top: 1px;
   margin-top: 60px;
 }
 .portfolio .imgs-container .box {
+  overflow: hidden;
   position: relative;
 }
 @media(min-width:768px){
