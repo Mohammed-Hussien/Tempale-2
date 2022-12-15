@@ -505,5 +505,8 @@ text-align: center;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   text-align: center;
+  background-image: url("../images/stats.jpg");
+  background-size: cover;
+  position: relative;
 }
 /* End Stats */
