@@ -421,9 +421,10 @@ top: 1px;
   bottom: -100;
 }
 .portfolio .imgs-container .box .caption h4 {
-
+font-weight: normal;
+margin-bottom: 10px;
 }
 .portfolio .imgs-container .box .caption p {
-  
+
 }
 /* End Portfolio */
