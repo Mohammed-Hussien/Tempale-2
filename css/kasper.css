@@ -473,6 +473,10 @@ width: 100%;
   margin-bottom: 30px;
 }
 .video .text button {
-  
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  text-transform: uppercase;
 }
 /* End Video */
