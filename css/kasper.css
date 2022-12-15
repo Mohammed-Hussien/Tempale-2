@@ -651,7 +651,7 @@ margin-bottom: 40px;
   
 }
 .our-skills .skills .prog-holder .prog span::before {
-  
+  content: "";
 }
 .our-skills .skills .prog-holder .prog span::after {
   
