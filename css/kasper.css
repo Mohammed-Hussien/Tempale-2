@@ -389,6 +389,6 @@ top: 1px;
   
 }
 .portfolio .imgs-container .box img {
-  
+  max-width: 100%;
 }
 /* End Portfolio */
