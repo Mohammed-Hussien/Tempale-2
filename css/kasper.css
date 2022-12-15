@@ -595,4 +595,12 @@ text-transform: uppercase;
 .our-skills .testimonials .content img {
   
 }
+@media(max-width: 767 px) {
+  .our-skills .testimonials .content {
+
+  }
+  .our-skills .testimonials .content img {
+    
+  }
+}
 /* End Skills */
