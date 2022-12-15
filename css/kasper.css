@@ -419,6 +419,11 @@ top: 1px;
   width: 100%;
   transition: 0.3s;
   bottom: -100;
+}
+.portfolio .imgs-container .box .caption h4 {
 
+}
+.portfolio .imgs-container .box .caption p {
+  
 }
 /* End Portfolio */
