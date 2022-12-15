@@ -409,6 +409,7 @@ top: 1px;
 }
 .portfolio .imgs-container .box img {
   max-width: 100%;
+  transition: 0.3;
 }
 .portfolio .imgs-container .box .caption {
   position: absolute;
