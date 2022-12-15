@@ -698,6 +698,8 @@ margin-bottom: 40px;
 position: relative;
 }
 .quote q {
-  
+  font-size: 30px;
+  margin-bottom: 20px;
+  display: block;
 }
 /* End Quote */
