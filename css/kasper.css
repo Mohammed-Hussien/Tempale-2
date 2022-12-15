@@ -388,6 +388,7 @@ top: 1px;
   margin-top: 60px;
 }
 .portfolio .imgs-container .box {
+  position: absolute;
 }
 @media(min-width:768px){
   .portfolio .imgs-container .box {
@@ -403,6 +404,5 @@ top: 1px;
   max-width: 100%;
 }
 .portfolio .imgs-container .box .caption {
-
 }
 /* End Portfolio */
