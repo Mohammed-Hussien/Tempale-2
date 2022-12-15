@@ -577,4 +577,7 @@ flex-wrap: wrap;
   flex-basis: 45%;
   }
 }
+.our-skills .container >div >h3 {
+  
+}
 /* End Skills */
