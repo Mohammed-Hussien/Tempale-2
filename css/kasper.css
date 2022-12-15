@@ -486,4 +486,9 @@ padding-top: var(--section-padding);
 overflow: hidden;
 text-align: center;  
 }
+.about img {
+  position: relative;
+  bottom: -120px;
+  margin-top: -120px;
+}
 /* End About */
