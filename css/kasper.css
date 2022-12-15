@@ -502,6 +502,8 @@ text-align: center;
 /* End About */
 /* Start Stats */
 .stats {
-  
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+  text-align: center;
 }
 /* End Stats */
