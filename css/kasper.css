@@ -524,6 +524,6 @@ display: flex;
 flex-wrap: wrap;
 }
 .stats .container .box {
-  
+  color: white;
 }
 /* End Stats */
