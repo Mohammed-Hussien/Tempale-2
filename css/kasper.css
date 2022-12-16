@@ -868,4 +868,7 @@ border-bottom: 1px solid var(--main-color);
 display: flex;
 justify-content: space-between;
 }
+.contact .content form {
+  
+}
 /* End Contact */
