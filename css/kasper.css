@@ -895,6 +895,6 @@ flex-basis: 70%;
   cursor: pointer;
 }
 .contact .content .info {
-  
+  flex-basis: 25%;
 }
 /* End Contact */
