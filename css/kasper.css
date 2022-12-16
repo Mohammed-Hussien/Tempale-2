@@ -776,5 +776,12 @@ border-bottom: 1px solid var(--main-color);
   font-size: 20px;
 }
 .pricing .contact-link {
+  display: block;
+  width: fit-content;
+  margin: 20px auto;
+  background-color: var(--main-color);
+  color: white;
+  padding: 15px 30px;
+  text-decoration: none;
 }
 /* End Pricing */ 
