@@ -882,6 +882,6 @@ flex-basis: 70%;
   outline: none;
 }
 .contact .content form textarea.main-input {
-  
+  height: 200px;
 }
 /* End Contact */
