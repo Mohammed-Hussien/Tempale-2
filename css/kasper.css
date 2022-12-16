@@ -723,7 +723,9 @@ border-top: 1px solid var(--main-color);
 border-bottom: 1px solid var(--main-color);
 }
 .pricing .plans .plan .head h3 {
-
+font-weight: normal;
+margin-bottom: 20px;
+text-transform: uppercase;
 }
 .pricing .plans .plan .head span {
 
