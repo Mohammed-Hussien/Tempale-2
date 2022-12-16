@@ -869,7 +869,7 @@ display: flex;
 justify-content: space-between;
 }
 .contact .content form {
-
+flex-basis: 70%;
 }
 .contact .content form .main-input {
   
