@@ -791,6 +791,7 @@ border-bottom: 1px solid var(--main-color);
   padding-bottom: var(--section-padding);
   background-image: url("../images/subscribe.jpg");
   background-size: cover;
+  position: relative;
 }
 .subscripe::before {
 
