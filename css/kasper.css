@@ -868,6 +868,11 @@ border-bottom: 1px solid var(--main-color);
 display: flex;
 justify-content: space-between;
 }
+@media (max-width: 767px) {
+  .contact .content {
+    flex-direction: column;
+  }
+}
 .contact .content form {
 flex-basis: 70%;
 }
