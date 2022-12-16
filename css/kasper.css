@@ -842,4 +842,7 @@ border-bottom: 1px solid var(--main-color);
   border-left: none;
   text-transform: uppercase;
 }
+.subscribe form ::placeholder {
+  color: white;
+}
 /* End Sub */ 
