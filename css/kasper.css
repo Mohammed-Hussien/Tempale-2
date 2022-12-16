@@ -808,4 +808,9 @@ border-bottom: 1px solid var(--main-color);
   display: flex;
   align-items: center;
 }
+@media (max-width: 991px) {
+  .subscribe .container {
+    flex-direction: column;
+  }
+}
 /* End Sub */ 
