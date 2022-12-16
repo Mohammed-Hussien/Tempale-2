@@ -752,7 +752,7 @@ right: -15px;
   
 }
 .pricing .plans .plan ul li:not(:last-child)::after {
-  
+  content: "";
 }
 
 /* End Pricing */ 
