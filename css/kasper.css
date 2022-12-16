@@ -869,6 +869,9 @@ display: flex;
 justify-content: space-between;
 }
 .contact .content form {
+
+}
+.contact .content form .main-input {
   
 }
 /* End Contact */
