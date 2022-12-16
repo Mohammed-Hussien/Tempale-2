@@ -878,4 +878,7 @@ flex-basis: 70%;
   margin-bottom: 30px;
   width: 100%;
 }
+.contact .content form .main-input:focus {
+  
+}
 /* End Contact */
