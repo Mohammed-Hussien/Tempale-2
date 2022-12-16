@@ -850,6 +850,7 @@ border-bottom: 1px solid var(--main-color);
   color: white;
 }
 .subscribe p {
-  
+  line-height: 2;
+  margin-left: 50px;
 }
 /* End Sub */ 
