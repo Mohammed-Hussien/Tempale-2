@@ -959,6 +959,9 @@ flex-basis: 70%;
 .footer .container {
   position: relative;
 }
+.footer img {
+  
+}
 .footer p:not(.copyright){
 
 }
@@ -969,6 +972,6 @@ flex-basis: 70%;
 
 }
 .footer .copyright span {
-  
+
 }
 /* End Footer */ 
