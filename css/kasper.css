@@ -897,4 +897,7 @@ flex-basis: 70%;
 .contact .content .info {
   flex-basis: 25%;
 }
+.contact .content .info h4 {
+  
+}
 /* End Contact */
