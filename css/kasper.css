@@ -947,4 +947,7 @@ flex-basis: 70%;
   color: white;
   text-align: center;
 }
+.footer::before {
+  
+}
 /* End Footer */ 
