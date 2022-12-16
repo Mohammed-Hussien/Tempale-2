@@ -959,4 +959,7 @@ flex-basis: 70%;
 .footer .container {
   position: relative;
 }
+.footer p:not(.copyright){
+  
+}
 /* End Footer */ 
