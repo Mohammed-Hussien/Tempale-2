@@ -708,4 +708,10 @@ position: relative;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
 }
+.pricing .plans {
+
+}
+.pricing .plans .plan {
+  
+}
 /* End Pricing */ 
