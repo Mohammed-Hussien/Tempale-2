@@ -879,6 +879,9 @@ flex-basis: 70%;
   width: 100%;
 }
 .contact .content form .main-input:focus {
+  outline: none;
+}
+.contact .content form textarea.main-input {
   
 }
 /* End Contact */
