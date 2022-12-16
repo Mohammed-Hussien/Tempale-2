@@ -725,10 +725,10 @@ gap: 30px;
 .pricing .plans .plan .head span {
 
 }
-.pricing .plans .plan .head span ::before {
+.pricing .plans .plan .head span::before {
 content: "$";
 }
-.pricing .plans .plan .head span ::after {
+.pricing .plans .plan .head span::after {
 content: "/Mo";
 }
 /* End Pricing */ 
