@@ -849,4 +849,7 @@ border-bottom: 1px solid var(--main-color);
 .subscribe form ::placeholder {
   color: white;
 }
+.subscribe p {
+  
+}
 /* End Sub */ 
