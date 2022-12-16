@@ -728,5 +728,7 @@ gap: 30px;
 .pricing .plans .plan .head span ::before {
 
 }
+.pricing .plans .plan .head span ::after {
 
+}
 /* End Pricing */ 
