@@ -944,5 +944,7 @@ flex-basis: 70%;
   background-image: url("../images/subscribe.jpg");
   background-size: cover;
   position: relative;
+  color: white;
+  text-align: center;
 }
 /* End Footer */ 
