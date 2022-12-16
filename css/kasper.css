@@ -884,4 +884,7 @@ flex-basis: 70%;
 .contact .content form textarea.main-input {
   height: 200px;
 }
+.contact .content form input[type="submit"]{
+  
+}
 /* End Contact */
