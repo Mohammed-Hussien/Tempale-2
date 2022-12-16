@@ -792,6 +792,8 @@ border-bottom: 1px solid var(--main-color);
   background-image: url("../images/subscribe.jpg");
   background-size: cover;
   position: relative;
+  color: white;
+  background-color: rgb(0 0 0 / 50%);
 }
 .subscripe::before {
 
