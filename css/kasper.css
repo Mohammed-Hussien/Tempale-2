@@ -786,7 +786,7 @@ border-bottom: 1px solid var(--main-color);
 }
 /* End Pricing */ 
 /* Start Sub */ 
-.subscripe{ 
+.subscripe { 
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   background-image: url("../images/subscribe.jpg");
