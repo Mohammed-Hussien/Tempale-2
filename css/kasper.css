@@ -729,6 +729,6 @@ gap: 30px;
 content: "$";
 }
 .pricing .plans .plan .head span ::after {
-
+content: "/Mo";
 }
 /* End Pricing */ 
