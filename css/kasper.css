@@ -865,6 +865,7 @@ border-bottom: 1px solid var(--main-color);
   padding-bottom: var(--section-padding);
 }
 .contact .content {
-
+display: flex;
+justify-content: space-between;
 }
 /* End Contact */
