@@ -789,7 +789,8 @@ border-bottom: 1px solid var(--main-color);
 .subscripe{ 
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-
+  background-image: url("../images/subscribe.jpg");
+  background-size: cover;
 }
 .subscripe::before {
 
