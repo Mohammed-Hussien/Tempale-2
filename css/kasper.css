@@ -786,4 +786,10 @@ border-bottom: 1px solid var(--main-color);
 }
 /* End Pricing */ 
 /* Start Sub */ 
+.subscripe{ 
+
+}
+.subscripe::before {
+  
+}
 /* End Sub */ 
