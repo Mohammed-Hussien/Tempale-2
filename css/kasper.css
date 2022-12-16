@@ -819,4 +819,7 @@ border-bottom: 1px solid var(--main-color);
 .subscribe form i {
   
 }
+.subscribe form input[type="email"] {
+ 
+}
 /* End Sub */ 
