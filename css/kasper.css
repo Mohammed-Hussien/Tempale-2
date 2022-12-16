@@ -977,6 +977,7 @@ padding: 10px 15px;
 margin-top: 60px;
 }
 .footer .copyright span {
-
+font-weight: bold;
+color: var(--main-color);
 }
 /* End Footer */ 
